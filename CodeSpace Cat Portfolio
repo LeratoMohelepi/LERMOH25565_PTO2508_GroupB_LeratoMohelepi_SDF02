@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeSpace Cat Portfolio</title>
+</head>
+<body>
+
+    <h1>CodeSpace Cat Portfolio</h1>
+<p>
+    <a href="#about">About Me</a>
+    <a href="#skills">Skills</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+</p>
+
+<h2 id="about">About Me</h2>
+<img src="cat-codespace.png" alt="CodeSpace Cat">
+<p>Hello! I'm CodeSpace Cat. I'm purr-assionate about eb development and design.
+   I've been pawing at the web industry for justone catnap (that's less than a day in human terms), and I adore crafting pawsitively intuitive, whisker-twitching, and fur-astic web experiences.
+</p>
+
+<h2 id="skills">My Skills</h2>
+<ul>
+    <li>Web development</li>
+    <li>UI/UX Design</li>
+    <li>Backend Development</li>
+    <li>Database Management</li>
+    <li>SEO Optimization</li>
+    <li>Lying in the Sun</li>
+</ul>
+
+</body>
+</html>
